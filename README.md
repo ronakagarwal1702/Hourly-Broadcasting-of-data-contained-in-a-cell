@@ -2,3 +2,6 @@
 ### Using the Internet Activity Algorithm (IAV), where the polling the internet content viewed by the people in particular time duration, which are assuming on an hourly basis to depict its nature.
 
 #### Instead of following the current trend of unicasting the data content to the viewer, resorted to our Internet Activity Voting (IAV) algorithm for grouping the population of a cell based on the content watched by the majority of the crowd in a particular time frame. Based on the results of our algorithm, the most prioritized hourly data content will be broadcasted in that particular hour. In this way, the same data content can be shared by millions of users in that cell.
+
+
+![1](https://user-images.githubusercontent.com/60615848/91257357-4d32d680-e787-11ea-8865-5834529257e4.PNG)
